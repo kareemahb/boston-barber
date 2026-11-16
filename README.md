@@ -1,6 +1,6 @@
 # 💈 Boston Street Barbers | Small Business Website
  
-A one-page website for **Warren Street Barbers**, a fictional neighborhood barbershop in Roxbury, Boston. The site gives customers the basics before they walk in: services and prices, the shop's story, location, phone number, and hours.
+A one-page website for **Warren Street Barbers**, a neighborhood barbershop in Boston. The site gives customers the basics before they walk in: services and prices, the shop's story, location, phone number, and hours.
  
 Built with plain HTML and CSS as part of my small business website series.
  

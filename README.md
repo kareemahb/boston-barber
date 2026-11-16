@@ -2,7 +2,6 @@
  
 A one-page website for **Boston Street Barbers**, a neighborhood barbershop in Boston. The site gives customers the basics before they walk in: services and prices, the shop's story, location, phone number, and hours.
  
-Built with plain HTML and CSS as part of my small business website series.
  
 🔗 **Live Site:** [bostonbarbersmb.netlify.app](https://bostonbarbersmb.netlify.app/)
  
